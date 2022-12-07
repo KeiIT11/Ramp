@@ -1,0 +1,20 @@
+[
+    {
+        "id":1001,
+        "Title":"勉強したことを記憶に留めるテクニック",
+        "name":"memory_tech",
+        "category":"効率のいい勉強方法"
+    },
+    {
+        "id":1002,
+        "Title":"難しい内容を理解しやすくするテクニック",
+        "name":"understand_tech",
+        "category":"効率のいい勉強方法"
+    },
+    {
+        "id":1003,
+        "Title":"ワーキングメモリーを鍛える方法",
+        "name":"train_workingmemory",
+        "category":"効率のいい勉強方法"
+    }
+]
