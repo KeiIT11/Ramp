@@ -27,7 +27,3 @@ iOS: https://apps.apple.com/us/app/ramp-%E6%97%A7-%E5%8B%89%E5%BC%B7%E7%94%A8%E3
 
 ### 4. 記録機能
 <img src="https://user-images.githubusercontent.com/81548811/229277707-2eac05a6-3001-400e-a8ea-916ed2c9d21f.png" alt="record" width="20%">
-
-## こだわりと苦労した点
-
-## 今後のアップデート予定
