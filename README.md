@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/81548811/229276904-bcb5e4b3-2495-415a-8d1c-d28aba08612e.png" alt="timer" width="20%"><img src="https://user-images.githubusercontent.com/81548811/229277641-07c910c6-c7d3-43e1-93ce-4b0abb4c80c7.png" alt="schedule" width="20%"><img src="https://user-images.githubusercontent.com/81548811/229277783-38e25df4-6354-4ace-b274-128d8dac6781.png" alt="article" width="20%">
+<img src="https://user-images.githubusercontent.com/81548811/229276904-bcb5e4b3-2495-415a-8d1c-d28aba08612e.png" alt="timer" width="30%"> <img src="https://user-images.githubusercontent.com/81548811/229277641-07c910c6-c7d3-43e1-93ce-4b0abb4c80c7.png" alt="schedule" width="30%"> <img src="https://user-images.githubusercontent.com/81548811/229277783-38e25df4-6354-4ace-b274-128d8dac6781.png" alt="article" width="30%">
 
 ## このプロジェクトについて
 Rampは「勉強できない人を助けるアプリ」です。  
