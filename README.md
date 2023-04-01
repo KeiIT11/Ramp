@@ -10,12 +10,9 @@ Rampは「勉強できない人を助けるアプリ」です。
 ## 使い方
 ### 方法1. ストアからインストール  
 iOS: https://apps.apple.com/us/app/ramp-%E6%97%A7-%E5%8B%89%E5%BC%B7%E7%94%A8%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC/id1613363936?itsct=apps_box_badge&itscg=30200
-### 方法2. ローカルで実行
-```
 
-```
 
-## 機能と使用技術（特徴を箇条書きなど）
+## 機能と使用技術
 ### 1. 記事機能
 <img src="https://user-images.githubusercontent.com/81548811/229277777-865f33e2-a03d-4ca2-8dbe-15b01fa0bd52.png" alt="select article" width="20%"> <img src="https://user-images.githubusercontent.com/81548811/229277783-38e25df4-6354-4ace-b274-128d8dac6781.png" alt="article" width="20%">
 
