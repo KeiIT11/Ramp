@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/81548811/229276874-1d30fd78-319b-4b8a-89a8-3c70ec29f587.png" alt="Ramp_Icon" width="20%">
+<img src="https://user-images.githubusercontent.com/81548811/229276895-56f5b1a3-8a9d-4801-9da7-eb97c8610744.png" alt="Simulator Screen Shot1" width="20%"><img src="https://user-images.githubusercontent.com/81548811/229276904-bcb5e4b3-2495-415a-8d1c-d28aba08612e.png" alt="Simulator Screen Shot2" width="20%"><img src="https://user-images.githubusercontent.com/81548811/229276912-4a0fa09a-64ce-4ea9-bfc5-3d357db9968b.png" alt="Simulator Screen Shot3" width="20%">
 
 ## このプロジェクトについて
 Rampは「勉強できない人を助けるアプリ」です。  
@@ -6,10 +6,6 @@ Rampは「勉強できない人を助けるアプリ」です。
 - 使用技術：Swift, SwiftUI
 - 開発期間：半年  
 - 担当　　：全部  
-
-<img src="https://user-images.githubusercontent.com/81548811/229276895-56f5b1a3-8a9d-4801-9da7-eb97c8610744.png" alt="Simulator Screen Shot1" width="20%">
-<img src="https://user-images.githubusercontent.com/81548811/229276904-bcb5e4b3-2495-415a-8d1c-d28aba08612e.png" alt="Simulator Screen Shot2" width="20%">
-<img src="https://user-images.githubusercontent.com/81548811/229276912-4a0fa09a-64ce-4ea9-bfc5-3d357db9968b.png)" alt="Simulator Screen Shot3" width="20%">
 
 ## 使い方
 ### 方法1. ストアからインストール  
@@ -24,7 +20,7 @@ iOS: https://apps.apple.com/us/app/ramp-%E6%97%A7-%E5%8B%89%E5%BC%B7%E7%94%A8%E3
 
 ### 2. 計画機能
 ### 3. タイマー機能
-### 4. (記録機能）
+### 4. 記録機能
 
 ## こだわりと苦労した点
 
