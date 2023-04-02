@@ -13,40 +13,23 @@ iOS: https://apps.apple.com/us/app/ramp-%E6%97%A7-%E5%8B%89%E5%BC%B7%E7%94%A8%E3
 
 
 ## 機能と使用技術
-
-<style>
-.column-left{
-  float: left;
-  width: 47.5%;
-  text-align: left;
-}
-.column-right{
-  float: right;
-  width: 47.5%;
-  text-align: left;
-}
-.column-one{
-  float: left;
-  width: 100%;
-  text-align: left;
-}
-</style>
-
 ### 1. 記事機能
 
+<img src="https://user-images.githubusercontent.com/81548811/229277777-865f33e2-a03d-4ca2-8dbe-15b01fa0bd52.png" alt="select article" width="20%"><img src="https://user-images.githubusercontent.com/81548811/229277783-38e25df4-6354-4ace-b274-128d8dac6781.png" alt="article" width="20%">
 
-<img src="https://user-images.githubusercontent.com/81548811/229277777-865f33e2-a03d-4ca2-8dbe-15b01fa0bd52.png" alt="select article" width="20%"><img src="https://user-images.githubusercontent.com/81548811/229277777-865f33e2-a03d-4ca2-8dbe-15b01fa0bd52.png" alt="select article" width="20%"><img src="https://user-images.githubusercontent.com/81548811/229277783-38e25df4-6354-4ace-b274-128d8dac6781.png" alt="article" width="20%">
-
-<img src="https://user-images.githubusercontent.com/81548811/229277777-865f33e2-a03d-4ca2-8dbe-15b01fa0bd52.png" alt="select article" width="20%"><img src="https://user-images.githubusercontent.com/81548811/229277777-865f33e2-a03d-4ca2-8dbe-15b01fa0bd52.png" alt="select article" width="20%"><img src="https://user-images.githubusercontent.com/81548811/229277783-38e25df4-6354-4ace-b274-128d8dac6781.png" alt="article" width="20%">あああああああ
-
-<img src="https://user-images.githubusercontent.com/81548811/229277777-865f33e2-a03d-4ca2-8dbe-15b01fa0bd52.png" alt="select article" width="20%"> <img src="https://user-images.githubusercontent.com/81548811/229277783-38e25df4-6354-4ace-b274-128d8dac6781.png" alt="article" width="20%">ああああああああああ
-
+記事機能は、１０冊以上の勉強法をまとめたものを学べる機能です。
+記事一覧ページと記事詳細ページがあります。
+記事は、アプリ内にmarkdownファイルで保存されています。
 
 ### 2. 計画機能
-<img src="https://user-images.githubusercontent.com/81548811/229277641-07c910c6-c7d3-43e1-93ce-4b0abb4c80c7.png" alt="schedule" width="20%">
+<img src="https://user-images.githubusercontent.com/81548811/229277641-07c910c6-c7d3-43e1-93ce-4b0abb4c80c7.png" alt="schedule" width="20%">　計画機能は、毎日の勉強計画を立てることができる機能です。データはアプリ内のcoredataに保存されています。
 
 ### 3. タイマー機能
 <img src="https://user-images.githubusercontent.com/81548811/229276895-56f5b1a3-8a9d-4801-9da7-eb97c8610744.png" alt="select timer" width="20%"> <img src="https://user-images.githubusercontent.com/81548811/229276904-bcb5e4b3-2495-415a-8d1c-d28aba08612e.png" alt="timer" width="20%"> <img src="https://user-images.githubusercontent.com/81548811/229277700-b91a240e-fccf-4ad9-bcac-7f2f85e74175.png" alt="select task(timer)" width="20%">
 
+タイマー機能は、ポモドーロテクニックを使って、効率的に作業ができる機能です。(ポモドーロ機能：２５分勉強、５分休憩を繰り返すことで１日の集中力を保つテクニック)
+
 ### 4. 記録機能
 <img src="https://user-images.githubusercontent.com/81548811/229277707-2eac05a6-3001-400e-a8ea-916ed2c9d21f.png" alt="record" width="20%">
+
+記録機能は、タスクごとの勉強時間記録できる機能です。
