@@ -37,7 +37,7 @@ iOS: https://apps.apple.com/us/app/ramp-%E6%97%A7-%E5%8B%89%E5%BC%B7%E7%94%A8%E3
 
 <div class="column-left">
 
-img src="https://user-images.githubusercontent.com/81548811/229277777-865f33e2-a03d-4ca2-8dbe-15b01fa0bd52.png" alt="select article" width="20%">
+<img src="https://user-images.githubusercontent.com/81548811/229277777-865f33e2-a03d-4ca2-8dbe-15b01fa0bd52.png" alt="select article" width="20%">
 
 </div>
 <div class="column-right">
