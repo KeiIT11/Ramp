@@ -13,7 +13,39 @@ iOS: https://apps.apple.com/us/app/ramp-%E6%97%A7-%E5%8B%89%E5%BC%B7%E7%94%A8%E3
 
 
 ## 機能と使用技術
+
+<style>
+.column-left{
+  float: left;
+  width: 47.5%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 47.5%;
+  text-align: left;
+}
+.column-one{
+  float: left;
+  width: 100%;
+  text-align: left;
+}
+</style>
+
 ### 1. 記事機能
+
+
+<div class="column-left">
+
+img src="https://user-images.githubusercontent.com/81548811/229277777-865f33e2-a03d-4ca2-8dbe-15b01fa0bd52.png" alt="select article" width="20%">
+
+</div>
+<div class="column-right">
+
+<img src="https://user-images.githubusercontent.com/81548811/229277783-38e25df4-6354-4ace-b274-128d8dac6781.png" alt="article" width="20%">
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/81548811/229277777-865f33e2-a03d-4ca2-8dbe-15b01fa0bd52.png" alt="select article" width="20%"> <img src="https://user-images.githubusercontent.com/81548811/229277783-38e25df4-6354-4ace-b274-128d8dac6781.png" alt="article" width="20%">
 
 ### 2. 計画機能
